@@ -1,0 +1,31 @@
+file_type: csv
+dataset_name: Train_data
+file_name: Train
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+columns: 
+    - fecha_dato
+    - ncodpers
+    - ind_empleado
+    - pais_residencia
+    - sexo
+    - age
+    - fecha_alta
+    - ind_nuevo
+    - antiguedad
+    - indrel
+    - ult_fec_cli_1t
+    - indrel_1mes
+    - tiprel_1mes
+    - indresi
+    - indext
+    - conyuemp
+    - canal_entrada
+    - indfall
+    - tipodom
+    - cod_prov
+    - nomprov
+    - ind_actividad_cliente
+    - renta
+    - segmento
